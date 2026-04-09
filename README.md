@@ -273,7 +273,7 @@ Titanic-Data-Analysis/
 1. Clone the repository
 
 
-git clone https://github.com/yourusername/titanic-analysis.git
+git clone [https://github.com/yourusername/titanic-analysis](https://github.com/VICO-27/Data-Analysis-with-Pandas).git
 
 
 2. Open the notebook in **Google Colab**
